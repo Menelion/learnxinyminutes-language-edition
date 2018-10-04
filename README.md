@@ -4,9 +4,11 @@ Inspired by [Learn X in Y Minutes](http://learnxinyminutes.com) and this [issue]
 
 ## Directory Structure
 
+```
 knownLanguage/
   knownLanguage-wantToLearnLanguage.md
-  
+```
+
 ## Contributers
 
 [Wayne Boka](https://github.com/wboka)
