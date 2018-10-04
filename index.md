@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Learn X in Y Minutes (Language Edition)
+# Learn X in Y Minutes (Language Edition) [WORK IN PROGRESS]
 
 Select your language to the language you want to learn.
 
