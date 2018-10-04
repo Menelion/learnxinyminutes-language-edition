@@ -1,0 +1,30 @@
+{% for section in site.data[lang-code] %}
+{% for s in section %}
+{% if forloop.index0 == 0 %}
+<h2>{{s | capitalize}}</h2>
+{% else %}
+<table>
+	<thead>
+		<tr>
+			<th>Original</th>
+			<th>Translated</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for translation in s %}
+		<tr>
+			<td>{{translation.original}}</td>
+			<td>{{translation.translated}}</td>
+		</tr>
+		{% else %}
+		<tr colspan="2">
+			No translations found.
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+{% endfor %}
+{% else %}
+<p>No translations found.</p>
+{% endfor %}

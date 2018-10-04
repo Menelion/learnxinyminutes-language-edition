@@ -1,0 +1,14 @@
+[
+	{
+		"original_alternatives": ["Hi"],
+		"original": "Hello",
+		"translated_alternatives": [],
+		"translated": "Saluton"
+	},
+	{
+		"original_alternatives": ["Bye"],
+		"original": "Goodbye",
+		"translated_alternatives": [""],
+		"translated": "Adiaŭo"
+	}
+]
