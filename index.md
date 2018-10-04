@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # Learn X in Y Minutes (Language Edition) [WORK IN PROGRESS]
