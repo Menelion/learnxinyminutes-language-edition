@@ -18,6 +18,9 @@ knownLanguage/
 1. After ruby is installed, run `gem install bundler` in your repository's directory
 2. Run `bundle install`. This will install all of the neccessary files for this project
 
+## Building the Site
+
+Run `bundle exec jekyll serve`
 
 ## Contributors
 
