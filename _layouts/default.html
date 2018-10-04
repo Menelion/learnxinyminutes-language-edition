@@ -38,7 +38,7 @@
 
 
 		<main id="content" class="main-content" role="main">
-			<a href="{{site.url}}">Home</a>{% if page.url != site.baseurl %} > <a href="{{page.url}}">{{page.title}}</a>{% endif %}
+			<a href="{{site.baseurl | prepend: site.url}}">Home</a>{% if page.url != site.baseurl %} > <a href="{{page.url | prepend: site.url}}">{{page.title}}</a>{% endif %}
 
 			{{ content }}
 
