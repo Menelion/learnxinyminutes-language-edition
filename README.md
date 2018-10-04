@@ -1,6 +1,6 @@
 ---
 layout: default
-title: README
+title: Readme
 permalink: /readme
 ---
 
@@ -13,8 +13,9 @@ Inspired by [Learn X in Y Minutes](http://learnxinyminutes.com) and this [issue]
 2018-10-04: Only use ISO 639-1 codes found [here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 ```txt
-knownLanguage/
-  knownLanguage-wantToLearnLanguage.md
+_data/
+  knownLanguage-wantToLearnLanguage/
+    SECTION-HEADER.json
 ```
 
 ## Installation
@@ -30,4 +31,18 @@ Run `bundle exec jekyll serve`
 
 ## Contributors
 
-[Wayne Boka](https://github.com/wboka)
+Project
+
+- [Wayne Boka](https://github.com/wboka)
+
+en-de
+
+- [Wayne Boka](https://github.com/wboka)
+
+en-eo
+
+- [Wayne Boka](https://github.com/wboka)
+
+en-es
+
+- [Wayne Boka](https://github.com/wboka)
