@@ -2,8 +2,8 @@ title: Learn X in Y Minutes (Language Edition)
 email: boka.wayne@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is an offshoot of the Learn X in Y Minutes project.
-baseurl: "/learnxinyminutes-language-edition" # the subpath of your site, e.g. /blog
-url: "https://wboka.github.io/learnxinyminutes-language-edition"
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://wboka.github.io/learnxinyminutes-language-edition"
 twitter_username: wtboka
 github_username: wboka
 
