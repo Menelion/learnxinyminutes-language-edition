@@ -11,6 +11,6 @@ knownLanguage/
   knownLanguage-wantToLearnLanguage.md
 ```
 
-## Contributers
+## Contributors
 
 [Wayne Boka](https://github.com/wboka)
