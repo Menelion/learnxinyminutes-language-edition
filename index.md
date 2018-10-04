@@ -10,6 +10,6 @@ Language Combinations: {{site.languages | size}}
 
 {% for language in site.languages %}
   <h2>
-     <a href="{{ language.url | prepend: site.url }}">{{ language.title }}</a>
+     <a href="{{ language.url | prepend: site.baseurl }}">{{ language.title }}</a>
   </h2>
 {% endfor %}
