@@ -1,0 +1,7 @@
+- [] I solemnly swear that this is freely available content
+- [] Pull request title is prepended with `[lang-codes]`. Example `[en-eo]`
+- [] Pull request touches only one file (or a set of logically related files with similar changes made)
+- [] Content changes are aimed at *beginner or intermediate language learners*
+- [] Files are formatted according to [CONTRIBUTING.md](contributing.md)
+  - [] Yes, I have double-checked quotes and field names!
+- []	New data follows one of the three available formats: json, csv, yml
