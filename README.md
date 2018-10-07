@@ -38,6 +38,7 @@ Project
 en-de
 
 - [Wayne Boka](https://github.com/wboka)
+- [Andre Polykanine](htpts://github.com/Menelion)
 
 en-eo
 
