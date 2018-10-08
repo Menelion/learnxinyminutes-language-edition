@@ -8,6 +8,10 @@ permalink: /readme
 
 Inspired by [Learn X in Y Minutes](http://learnxinyminutes.com) and this [issue](https://github.com/adambard/learnxinyminutes-docs/issues/3007)
 
+## Support
+
+See [Support](./SUPPORT.md)
+
 ## Directory Structure
 
 2018-10-04: Only use ISO 639-1 codes found [here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -28,6 +32,10 @@ _data/
 ## Building the Site
 
 Run `bundle exec jekyll serve`
+
+## Code of Conduct
+
+Please conduct your behavior in a manner that aligns with our [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ## Contributors
 
