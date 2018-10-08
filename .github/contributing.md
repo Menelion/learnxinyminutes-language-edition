@@ -1,6 +1,6 @@
 # Contributing
 
-All contributions are welcome, from the tiniest typo to a brand new article. Translations in all languages are welcome (or, for that matter, original articles in any language). Send a pull request or open an issue any time of day or night.
+All contributions are welcome, from the tiniest typo to a brand new article. Translations in all languages are welcome (or, for that matter, original articles in any language). Send a pull request or open an issue any time of day or night. Pull Requests will remain open for a minimum of approximately 24 to 48 hours to allow for discussion and review. This is subject to change.
 
 **Please prepend the language codes to your issues and pull requests**.
 
