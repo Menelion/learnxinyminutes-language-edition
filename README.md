@@ -55,3 +55,7 @@ en-eo
 en-es
 
 - [Wayne Boka](https://github.com/wboka)
+
+en-fr
+
+- [Andre Polykanine](https://github.com/Menelion)
