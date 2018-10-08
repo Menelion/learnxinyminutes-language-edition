@@ -1,22 +1,186 @@
 [
-	{
-		"original": "One",
-		"translated": "Uno"
-	},
-	{
-		"original": "Two",
-		"translated": "Dos"
-	},
-	{
-		"original": "Three",
-		"translated": "Tres"
-	},
-	{
-		"original": "Four",
-		"translated": "Cuatro"
-	},
-	{
-		"original": "Five",
-		"translated": "Cinco"
-	}
+  {
+    "original": "one",
+    "translated": "uno"
+  },
+  {
+    "original": "two",
+    "translated": "dos"
+  },
+  {
+    "original": "three",
+    "translated": "tres"
+  },
+  {
+    "original": "four",
+    "translated": "cuatro"
+  },
+  {
+    "original": "five",
+    "translated": "cinco"
+  },
+  {
+    "original": "six",
+    "translated": "seis"
+  },
+  {
+    "original": "seven",
+    "translated": "siete"
+  },
+  {
+    "original": "eight",
+    "translated": "ocho"
+  },
+  {
+    "original": "nine",
+    "translated": "nueve"
+  },
+  {
+    "original": "ten",
+    "translated": "diez"
+  },
+  {
+    "original": "eleven",
+    "translated": "once"
+  },
+  {
+    "original": "twelve",
+    "translated": "doce"
+  },
+  {
+    "original": "thirteen",
+    "translated": "trece"
+  },
+  {
+    "original": "fourteen",
+    "translated": "catorce"
+  },
+  {
+    "original": "fifteen",
+    "translated": "quince"
+  },
+  {
+    "original": "sixteen",
+    "translated": "dieciséis"
+  },
+  {
+    "original": "seventeen",
+    "translated": "de diecisiete"
+  },
+  {
+    "original": "eighteen",
+    "translated": "dieciocho"
+  },
+  {
+    "original": "nineteen",
+    "translated": "diecinueve"
+  },
+  {
+    "original": "twenty",
+    "translated": "veinte"
+  },
+  {
+    "original": "twenty one",
+    "translated": "veintiuno"
+  },
+  {
+    "original": "twenty two",
+    "translated": "veintidós"
+  },
+  {
+    "original": "twenty three",
+    "translated": "veintitres"
+  },
+  {
+    "original": "twenty four",
+    "translated": "veinticuatro"
+  },
+  {
+    "original": "twenty five",
+    "translated": "veinticinco"
+  },
+  {
+    "original": "twenty six",
+    "translated": "veintiseis"
+  },
+  {
+    "original": "twenty seven",
+    "translated": "veintisiete"
+  },
+  {
+    "original": "twenty eight",
+    "translated": "veintiocho"
+  },
+  {
+    "original": "twenty nine",
+    "translated": "veintinueve"
+  },
+  {
+    "original": "thirty",
+    "translated": "treinta"
+  },
+  {
+    "original": "thirty one",
+    "translated": "treinta y uno"
+  },
+  {
+    "original": "thirty two",
+    "translated": "treinta y dos"
+  },
+  {
+    "original": "thirty three",
+    "translated": "treinta y tres"
+  },
+  {
+    "original": "thirty four",
+    "translated": "treinta y cuatro"
+  },
+  {
+    "original": "thirty five",
+    "translated": "treinta y cinco"
+  },
+  {
+    "original": "thirty six",
+    "translated": "treinta y seis"
+  },
+  {
+    "original": "thirty seven",
+    "translated": "treinta y siete"
+  },
+  {
+    "original": "thirty eight",
+    "translated": "treinta y ocho"
+  },
+  {
+    "original": "thirty nine",
+    "translated": "treinta y nueve"
+  },
+  {
+    "original": "forty",
+    "translated": "cuarenta"
+  },
+  {
+    "original": "fifty",
+    "translated": "cincuenta"
+  },
+  {
+    "original": "sixty",
+    "translated": "sesenta"
+  },
+  {
+    "original": "seventy",
+    "translated": "setenta"
+  },
+  {
+    "original": "eighty",
+    "translated": "ochenta"
+  },
+  {
+    "original": "ninety",
+    "translated": "noventa"
+  },
+  {
+    "original": "one hundred",
+    "translated": "cien"
+  }
 ]

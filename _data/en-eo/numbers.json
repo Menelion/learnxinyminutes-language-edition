@@ -18,5 +18,134 @@
 	{
 		"original": "Five",
 		"translated": "Kvin"
+	},
+	{
+		"original": "Six",
+		"translated": "Ses"
+	},
+	{
+		"original": "Seven",
+		"translated": "Sep"
+	},
+	{
+		"original": "Eight",
+		"translated": "Ok"
+	},
+	{
+		"original": "Nine",
+		"translated": "Naŭ"
+	},
+	{
+		"original": "Ten",
+		"translated": "Dek"
+	},
+	{
+		"original": "Eleven",
+		"translated": "Dek unu"
+	},
+	{
+		"original": "Tweleve",
+		"translated": "Dek du"
+	},
+	{
+		"original": "Thirteen",
+		"translated": "Dek tri"
+	},
+	{
+		"original": "Fourteen",
+		"translated": "Dek kvar"
+	},
+	{
+		"original": "Fifteen",
+		"translated": "Dek kvin"
+	},
+	{
+		"original": "Sixteen",
+		"translated": "Dek ses"
+	},
+	{
+		"original": "Seventeen",
+		"translated": "Dek sep"
+	},
+	{
+		"original": "Eighteen",
+		"translated": "Dekok"
+	},
+	{
+		"original": "Nineteen",
+		"translated": "Dek naŭ"
+	},
+	{
+		"original": "Twenty",
+		"translated": "Dudek"
+	},
+	{
+		"original": "Twenty one",
+		"translated": "Dudek unu"
+	},
+	{
+		"original": "Twenty two",
+		"translated": "Dudek du"
+	},
+	{
+		"original": "Twenty three",
+		"translated": "Dudek tri"
+	},
+	{
+		"original": "Twenty four",
+		"translated": "Dudek kvar"
+	},
+	{
+		"original": "Twenty five",
+		"translated": "Dudek kvin"
+	},
+	{
+		"original": "Twenty six",
+		"translated": "Dudek ses"
+	},
+	{
+		"original": "Twenty seven",
+		"translated": "Dudek sep"
+	},
+	{
+		"original": "Twenty eight",
+		"translated": "Dudek ok"
+	},
+	{
+		"original": "Twenty nine",
+		"translated": "Dudek naŭ"
+	},
+	{
+		"original": "Thirty",
+		"translated": "Tri dek"
+	},
+	{
+		"original": "Forty",
+		"translated": "Kvardek"
+	},
+	{
+		"original": "Fifty",
+		"translated": "Kvindek"
+	},
+	{
+		"original": "Sixty",
+		"translated": "Sesdek"
+	},
+	{
+		"original": "Seventy",
+		"translated": "Sepdek"
+	},
+	{
+		"original": "Eighty",
+		"translated": "Okdek"
+	},
+	{
+		"original": "Ninty",
+		"translated": "Naŭdek"
+	},
+	{
+		"original": "Hundered",
+		"translated": "Cent"
 	}
+
 ]
