@@ -1,0 +1,69 @@
+[
+  {
+    "original": "room",
+    "translated_alternatives": ["lugar", "ambiente"],
+    "translated": "cuarto"
+  },
+  {
+    "original": "living room",
+    "translated_alternatives": ["salon", "sala"],
+    "translated": "sala de estar"
+  },
+  {
+    "original_alternatives": ["cafeteria", "cafe", "dining hall", "mess"],
+    "original": "dining room",
+    "translated_alternatives": ["refectorio"],
+    "translated": "comedor"
+  },
+  {
+    "original": "kitchen",
+    "translated": "cocina"
+  },
+  {
+    "original": "bedroom",
+    "translated_alternatives": ["aposento"],
+    "translated": "dormitorio"
+  },
+  {
+    "original_alternatives": ["yard", "backyard", "courtyard"],
+    "original": "garden",
+    "translated_alternatives": ["huerta"],
+    "translated": "jardín"
+  },
+  {
+    "original_alternatives": ["parking garage", "parking"],
+    "original": "garage",
+    "translated_alternatives": ["cochera"],
+    "translated": "garaje"
+  },
+  {
+    "original": "staircase",
+    "translated": "escalera"
+  },
+  {
+    "original_alternatives": ["gate", "gateway"],
+    "original": "door",
+    "translated": "puerta"
+  },
+  {
+    "original": "window",
+    "translated_alternatives": ["ventanilla"],
+    "translated": "ventana"
+  },
+  {
+    "original_alternatives": ["restroom"],
+    "original": "bathroom",
+    "translated_alternatives": ["sanitario", "lavabo"],
+    "translated": "baño"
+  },
+  {
+    "original_alternatives": ["place", "home"],
+    "original": "house",
+    "translated_alternatives": ["residencia", "domicilio", "hogar"],
+    "translated": "casa"
+  },
+  {
+    "original": "apartment",
+    "translated": "apartamento"
+  }
+]

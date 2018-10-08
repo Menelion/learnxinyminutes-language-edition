@@ -1,0 +1,87 @@
+[
+  {
+    "original": "What do you recommend?",
+    "translated": "¿Qué me/nos recomienda?"
+  },
+  {
+    "original": "What's house specialty?",
+    "translated": "¿Cuál es la especialidad de la casa?"
+  },
+  {
+    "original_alternatives": ["I'll have ...", "May I have some ..."],
+    "original": "Could I have ...?",
+    "translated_alternatives": ["Quiero ...", "Me trae un poco de ..."],
+    "translated": "¿Me trae ...?"
+  },
+  {
+    "original": "Is there a vegetarian plate?",
+    "translated": "¿Tienen algún plato vegetariano?"
+  },
+  {
+    "original": "Could I have the bill, please?",
+    "translated": "¿Me trae la cuenta, por favor?"
+  },
+  {
+    "original_alternatives": ["¿Cuál es el menú de hoy?", "¿Puedo ver el menú, por favor?"],
+    "original": "What's today's menu?",
+    "translated": "¿Cuál es el menú del día?"
+  },
+  {
+    "original": "I'm allergic to ...",
+    "translated": "Tengo alergia a ..."
+  },
+  {
+    "original_alternatives": ["It's really tasty!"],
+    "original": "It's delicious!",
+    "translated_alternatives": ["¡Es muy sabroso!"],
+    "translated": "¡Es delicioso!"
+  },
+  {
+    "original": "It's horrible!",
+    "translated": "¡Es asqueroso!",
+    "translated_alternatives": ["¡Es horrible!"]
+  },
+  {
+    "original": "I would like to drink ...",
+    "translated": "Para beber quiero ...",
+    "translated_alternatives": ["¡Es horrible!"]
+  },
+  {
+    "original": "Can you give us a little more time to decide, please?",
+    "translated": "¿Podria darnos un poco más de tiempo para decidir, por favor?"
+  },
+  {
+    "original": "Waiter!",
+    "translated_alternatives": ["¡Camarero!"],
+    "translated": "¡Mesero!"
+  },
+  {
+    "original": "That's not what I asked for!",
+    "translated": "¡Esto no es lo que he pedido!"
+  },
+  {
+    "original": "Do you accept credit cards?",
+    "translated": "¿Aceptan tarjeta de crédito?"
+  },
+  {
+    "original": "Tip",
+    "translated": "Propina"
+  },
+  {
+    "original_alternatives": ["(El) Primer plato"],
+    "original": "Starter",
+    "translated": "Entrante"
+  },
+  {
+    "original": "Small portion",
+    "translated": "(La) Tapa"
+  },
+  {
+    "original": "Full Portion",
+    "translated": "(La) Ración"
+  },
+  {
+    "original": "Dessert",
+    "translated": "(El) Postre"
+  }
+]
