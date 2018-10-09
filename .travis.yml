@@ -1,6 +1,6 @@
 language: ruby
 
-script: jekyll build
+script: bundle exec jekyll build
 
 # branch whitelist, only for GitHub Pages
 branches:
