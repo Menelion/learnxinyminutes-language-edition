@@ -13,8 +13,14 @@ We're happy for any contribution in any form, but if you're making more than one
 
 ## How to Add a New Language
 
-- [ ] Add a new Markdown file under `languages` using the `templates/new-language.md` file as a template
-    - Example: `en-es.md`
+- [ ] Add a new Markdown file under `_languages` using the `templates/new-language.md` file as a template
+    - Replace only the values in the curly braces: `{VARIABLE_TO_REPLACE}`
+        - `{YOUR_NAME}` is the name you want displayed. Please refer to the [Code of Conduct](../CODE_OF_CONDUCT.MD)
+        - `{LANG_CODE_1}` is ISO 639-1 code for the original language
+        - `{LANG_CODE_2}` is ISO 639-1 code for the translated language
+        - `{LANG_NAME_1}` is ISO 639-1 name for the original language
+        - `{LANG_NAME_2}` is ISO 639-1 name for the translated language
+    - Example file name: `en-es.md`
 - [ ] Create a new directory under `_data` with the language codes.
     - Example: `en-es`
 - [ ] See below for [How to Add to a Language](#how-to-add-to-a-language)
