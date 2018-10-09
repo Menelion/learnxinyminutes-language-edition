@@ -1,0 +1,12 @@
+language: ruby
+
+script: bundle exec jekyll build
+
+# branch whitelist, only for GitHub Pages
+branches:
+  only:
+  - master
+
+sudo: false
+
+cache: bundler # caching bundler gem packages will speed up build
