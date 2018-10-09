@@ -1,87 +1,98 @@
 [
   {
-    "original": "What do you recommend?",
-    "translated": "¿Qué me/nos recomienda?"
+    "original": "Meeting will be at 8 a.m.",
+    "translated": "La reunión será a las 8h"
   },
   {
-    "original": "What's house specialty?",
-    "translated": "¿Cuál es la especialidad de la casa?"
+    "original": "Can we have a meeting next week?",
+    "translated": "¿Será posible reunirnos la próxima semana?"
   },
   {
-    "original_alternatives": ["I'll have ...", "May I have some ..."],
-    "original": "Could I have ...?",
-    "translated_alternatives": ["Quiero ...", "Me trae un poco de ..."],
-    "translated": "¿Me trae ...?"
+    "original": "Our team will sign the contract with the client",
+    "translated": "Nuestro equipo va a firmar el contrato com el client"
   },
   {
-    "original": "Is there a vegetarian plate?",
-    "translated": "¿Tienen algún plato vegetariano?"
+    "original": "Please, leave a message",
+    "translated": "Por favor, deje su mensaje"
   },
   {
-    "original": "Could I have the bill, please?",
-    "translated": "¿Me trae la cuenta, por favor?"
+    "original": "Round-trip flight",
+    "translated": "Viaje de ida y vuelta"
   },
   {
-    "original_alternatives": ["¿Cuál es el menú de hoy?", "¿Puedo ver el menú, por favor?"],
-    "original": "What's today's menu?",
-    "translated": "¿Cuál es el menú del día?"
+    "original": "Business card",
+    "translated": "Tarjeta de negocios"
   },
   {
-    "original": "I'm allergic to ...",
-    "translated": "Tengo alergia a ..."
+    "original": "Full-time job",
+    "translated": "Empleo de jornada completa"
   },
   {
-    "original_alternatives": ["It's really tasty!"],
-    "original": "It's delicious!",
-    "translated_alternatives": ["¡Es muy sabroso!"],
-    "translated": "¡Es delicioso!"
+    "original": "Part-time job",
+    "translated": "Empleo de jornada parcial"
   },
   {
-    "original": "It's horrible!",
-    "translated": "¡Es asqueroso!",
-    "translated_alternatives": ["¡Es horrible!"]
+    "original": "Internship",
+    "translated": "Prácticas"
   },
   {
-    "original": "I would like to drink ...",
-    "translated": "Para beber quiero ...",
-    "translated_alternatives": ["¡Es horrible!"]
+    "original": "Accounting",
+    "translated": "(La) Contabilidad"
   },
   {
-    "original": "Can you give us a little more time to decide, please?",
-    "translated": "¿Podria darnos un poco más de tiempo para decidir, por favor?"
+    "original": "Consulting",
+    "translated": "(La) Consultoría"
   },
   {
-    "original": "Waiter!",
-    "translated_alternatives": ["¡Camarero!"],
-    "translated": "¡Mesero!"
+    "original": "Market",
+    "translated": "(El) Mercado"
   },
   {
-    "original": "That's not what I asked for!",
-    "translated": "¡Esto no es lo que he pedido!"
+    "original": "Insurance",
+    "translated": "(El) Seguro"
   },
   {
-    "original": "Do you accept credit cards?",
-    "translated": "¿Aceptan tarjeta de crédito?"
+    "original": "Stock exchange",
+    "translated": "(La) Bolsa"
   },
   {
-    "original": "Tip",
-    "translated": "Propina"
+    "original": "Bankruptcy",
+    "translated": "(La) Quiebra"
   },
   {
-    "original_alternatives": ["(El) Primer plato"],
-    "original": "Starter",
-    "translated": "Entrante"
+    "original": "Demand",
+    "translated": "(La) Demanda"
   },
   {
-    "original": "Small portion",
-    "translated": "(La) Tapa"
+    "original": "Supply",
+    "translated": "(La) Oferta"
   },
   {
-    "original": "Full Portion",
-    "translated": "(La) Ración"
+    "original": "Income",
+    "translated": "(El) Ingreso"
   },
   {
-    "original": "Dessert",
-    "translated": "(El) Postre"
+    "original": "Interest",
+    "translated": "(El) Interés"
+  },
+  {
+    "original": "Invoice",
+    "translated": "(La) Facture"
+  },
+  {
+    "original": "Tax",
+    "translated": "(El) Impuesto"
+  },
+  {
+    "original": "Share",
+    "translated": "(La) Acción"
+  },
+  {
+    "original": "Shareholder",
+    "translated": "(La/El) Accionista"
+  },
+  {
+    "original": "Union",
+    "translated": "(El) Sindicato"
   }
 ]

@@ -1,69 +1,69 @@
 [
   {
-    "original": "room",
-    "translated_alternatives": ["lugar", "ambiente"],
-    "translated": "cuarto"
+    "original": "Room",
+    "translated_alternatives": ["Lugar", "Ambiente"],
+    "translated": "Cuarto"
   },
   {
-    "original": "living room",
-    "translated_alternatives": ["salon", "sala"],
-    "translated": "sala de estar"
+    "original": "Living room",
+    "translated_alternatives": ["Salon", "Sala"],
+    "translated": "Sala de estar"
   },
   {
-    "original_alternatives": ["cafeteria", "cafe", "dining hall", "mess"],
-    "original": "dining room",
-    "translated_alternatives": ["refectorio"],
-    "translated": "comedor"
+    "original_alternatives": ["Cafeteria", "Cafe", "Dining hall", "mess"],
+    "original": "Dining room",
+    "translated_alternatives": ["Refectorio"],
+    "translated": "Comedor"
   },
   {
-    "original": "kitchen",
-    "translated": "cocina"
+    "original": "Kitchen",
+    "translated": "Cocina"
   },
   {
-    "original": "bedroom",
-    "translated_alternatives": ["aposento"],
-    "translated": "dormitorio"
+    "original": "Bedroom",
+    "translated_alternatives": ["Aposento"],
+    "translated": "Dormitorio"
   },
   {
-    "original_alternatives": ["yard", "backyard", "courtyard"],
-    "original": "garden",
-    "translated_alternatives": ["huerta"],
-    "translated": "jardín"
+    "original_alternatives": ["Yard", "Backyard", "Courtyard"],
+    "original": "Garden",
+    "translated_alternatives": ["Huerta"],
+    "translated": "Jardín"
   },
   {
-    "original_alternatives": ["parking garage", "parking"],
-    "original": "garage",
-    "translated_alternatives": ["cochera"],
-    "translated": "garaje"
+    "original_alternatives": ["Parking garage", "Parking"],
+    "original": "Garage",
+    "translated_alternatives": ["Cochera"],
+    "translated": "Garaje"
   },
   {
-    "original": "staircase",
-    "translated": "escalera"
+    "original": "Staircase",
+    "translated": "Escalera"
   },
   {
-    "original_alternatives": ["gate", "gateway"],
-    "original": "door",
-    "translated": "puerta"
+    "original_alternatives": ["Gate", "Gateway"],
+    "original": "Door",
+    "translated": "Puerta"
   },
   {
-    "original": "window",
-    "translated_alternatives": ["ventanilla"],
-    "translated": "ventana"
+    "original": "Window",
+    "translated_alternatives": ["Ventanilla"],
+    "translated": "Ventana"
   },
   {
-    "original_alternatives": ["restroom"],
-    "original": "bathroom",
-    "translated_alternatives": ["sanitario", "lavabo"],
-    "translated": "baño"
+    "original_alternatives": ["Restroom"],
+    "original": "Bathroom",
+    "translated_alternatives": ["Sanitario", "Lavabo"],
+    "translated": "Baño"
   },
   {
-    "original_alternatives": ["place", "home"],
-    "original": "house",
-    "translated_alternatives": ["residencia", "domicilio", "hogar"],
-    "translated": "casa"
+    "original_alternatives": ["Place", "Home"],
+    "original": "House",
+    "translated_alternatives": ["Residencia", "Domicilio", "Hogar"],
+    "translated": "Casa"
   },
   {
-    "original": "apartment",
-    "translated": "apartamento"
+    "original": "Apartment",
+    "translated": "Apartamento"
   }
 ]
