@@ -6,9 +6,9 @@
 		"translated": "Hallo"
 	},
 	{
-		"original_alternatives": ["Bye"],
+		"original_alternatives": ["Bye", "See you later", "See you soon"],
 		"original": "Goodbye",
-		"translated_alternatives": [""],
+		"translated_alternatives": ["Tschüs", "Bis bald"],
 		"translated": "Auf Wiedersehen"
 	}
 ]

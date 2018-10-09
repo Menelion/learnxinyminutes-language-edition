@@ -18,5 +18,113 @@
 	{
 		"original": "Five",
 		"translated": "Fünf"
+	},
+	{
+		"original": "Six",
+		"translated": "Sechs"
+	},
+	{
+		"original": "Seven",
+		"translated": "Sieben"
+	},
+	{
+		"original": "Eight",
+		"translated": "Acht"
+	},
+	{
+		"original": "Nine",
+		"translated": "Neun"
+	},
+	{
+		"original": "Ten",
+		"translated": "Zehn"
+	},
+	{
+		"original": "Eleven",
+		"translated": "Elf"
+	},
+	{
+		"original": "Twelve",
+		"translated": "Zwölf"
+	},
+	{
+		"original": "Thirteen",
+		"translated": "Dreizehn"
+	},
+	{
+		"original": "Fourteen",
+		"translated": "Vierzehn"
+	},
+	{
+		"original": "Fifteen",
+		"translated": "Fünfzehn"
+	},
+	{
+		"original": "Sixteen",
+		"translated": "sechzehn"
+	},
+{
+	"original": "Seventeen",
+	"translated": "Siebzehn"
+},
+{
+	"original": "Eighteen",
+		"translated": "Achtzehn"
+	},
+	{
+		"original": "Nineteen",
+		"translated": "Neunzehn"
+	},
+	{
+		"original": "Twenty",
+		"translated": "Zwanzig"
+	},
+	{
+		"original": "Twenty-one",
+		"translated": "Einundzwanzig"
+	},
+	{
+		"original": "Twenty-two",
+		"translated": "Zweiundzwanzig"
+	},
+	{
+		"original": "Twenty-three",
+		"translated": "Dreiundzwanzig"
+	},
+	{
+		"original": "Thirty",
+		"translated": "Dreißig"
+	},
+	{
+		"original": "Forty",
+		"translated": "Vierzig"
+	},
+	{
+		"original": "fifty",
+		"translated": "Fünfzig"
+	},
+	{
+		"original": "Sixty",
+		"translated": "Sechzig"
+	},
+	{
+		"original": "Seventy",
+		"translated": "Siebzig"
+	},
+	{
+		"original": "Eighty",
+		"translated": "Achtzig"
+	},
+	{
+		"original": "Ninety",
+		"translated": "Neunzig"
+	},
+	{
+		"original": "Ninety-nine",
+		"translated": "Neunundneunzig"
+	},
+	{
+		"original": "Hundred",
+		"translated": "Hundert"
 	}
-]
+	]
