@@ -1,0 +1,97 @@
+[
+  {
+    "original": "Where is ...?",
+    "translated": "¿Dónde está ...?"
+  },
+  {
+    "original": "At the street ...?",
+    "translated": "¿A la calle ...?"
+  },
+  {
+    "original": "A train?",
+    "translated": "¿Un tren?"
+  },
+  {
+    "original": "The airport?",
+    "translated": "¿El aeropuerto?"
+  },
+  {
+    "original": "A bank?",
+    "translated": "¿Un banco?"
+  },
+  {
+    "original": "A hotel?",
+    "translated": "¿Un hotel?"
+  },
+  {
+    "original": "An exchange?",
+    "translated": "¿Una casa de cambio?"
+  },
+  {
+    "original": "I need a/an ...",
+    "translated": "Yo necesito de un/una..."
+  },
+  {
+    "original_alternatives": ["How much is it?"],
+    "original": "How much does it cost?",
+    "translated": "¿Cuánto cuesta?"
+  },
+  {
+    "original": "What time is it?",
+    "translated": "¿Qué hora es?"
+  },
+  {
+    "original_alternatives": ["Do you got ...?"],
+    "original": "Do you have ...?",
+    "translated": "¿Tiene ...?"
+  },
+  {
+    "original": "Yes, I have ...",
+    "translated": "Yo tengo"
+  },
+  {
+    "original": "No, I don't have ...",
+    "translated": "Yo no tengo"
+  },
+  {
+    "original_alternatives": ["Can you speak ...?", "Do you understand ...?"],
+    "original": "Do you speak ...?",
+    "translated_alternatives": ["¿Entiende ...?", "¿Comprende ...?"],
+    "translated": "¿Háblas ...?"
+  },
+  {
+    "original_alternatives": ["I understand ...", "I can speak ..."],
+    "original": "Yes, I speak ...",
+    "translated_alternatives": ["Sí, yo comprendo ..."],
+    "translated": "Sí, yo hablo ..."
+  },
+  {
+    "original_alternatives": ["I don't understand ...", "I can't speak ..."],
+    "original": "No, I don't speak ...",
+    "translated_alternatives": ["No, yo no comprendo ..."],
+    "translated": "No, yo no hablo ..."
+  },
+  {
+    "original_alternatives": ["Cash"],
+    "original": "Money",
+    "translated": "Dinero"
+  },
+  {
+    "original": "To the right",
+    "translated": "A la derecha"
+  },
+  {
+    "original": "To the left",
+    "translated": "A la izquierda"
+  },
+  {
+    "original": "Right at the corner",
+    "translated": "En la esquina"
+  },
+  {
+    "original_alternatives": ["Ahead"],
+    "original": "Straight",
+    "translated_alternatives": ["Adelante"],
+    "translated": "Derecho"
+  },
+]
