@@ -1,0 +1,78 @@
+[
+  {
+    "original_alternatives": ["Good day"],
+    "original": "Good morning",
+    "translated": "Buenos días"
+  },
+  {
+    "original": "Good afternoon",
+    "translated": "Buenas tardes"
+  },
+  {
+    "original_alternatives": ["Good night"],
+    "original": "Good evening",
+    "translated": "Buenas noches"
+  },
+  {
+    "original_alternatives": ["Bye", "Bye Bye"],
+    "original": "Goodbye",
+    "translated": "Adiós"
+  },
+  {
+    "original_alternatives": ["See you later", "See you soon"],
+    "original": "See you",
+    "translated_alternatives": ["Hasta pronto", "Hasta la vista", "Nos vemos"],
+    "translated": "Hasta luego"
+  },
+  {
+    "original": "What's up?",
+    "translated_alternatives": ["¿Qué pasa?"],
+    "translated": "¿Qué tal?"
+  },
+  {
+    "original_alternatives": ["How are you doing?"],
+    "original": "How are you?",
+    "translated_alternatives": ["¿Cómo te va?", "¿Cómo has ido?"],
+    "translated": "¿Cómo estás?"
+  },
+  {
+    "original": "What's your name?",
+    "translated": "¿Cómo te llamas?"
+  },
+  {
+    "original": "Thank you for asking",
+    "translated": "Gracias por perguntar"
+  },
+  {
+    "original_alternatives": ["Gusto en verlo (singul.)/Gusto em verlos (plural)"],
+    "original": "Nice to meet you",
+    "translated": "Mucho gusto"
+  },
+  {
+    "original_alternatives": ["Thanks"],
+    "original": "Thank you",
+    "translated": "Grácias"
+  },
+  {
+    "original": "I love you",
+    "translated": "Te amo"
+  },
+  {
+    "original_alternatives": ["Sorry", "I feel sorry"],
+    "original": "I'm sorry",
+    "translated": "Lo siento"
+  },
+  {
+    "original_alternatives": ["I'm well, thanks"],
+    "original": "I'm fine, thanks",
+    "translated": "Bien, gracias"
+  },
+  {
+    "original": "So-so",
+    "translated": "Más o menos"
+  },
+  {
+    "original": "I'm bad",
+    "translated": "Estoy mal"
+  }
+]

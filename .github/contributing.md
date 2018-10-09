@@ -11,8 +11,32 @@ Examples:
 
 We're happy for any contribution in any form, but if you're making more than one major change (i.e. translations for two different languages) it would be super cool of you to make a separate pull request for each one so that someone can review them more effectively and/or individually.
 
+## How to Add a New Language
+
+- [ ] Add a new Markdown file under `_languages` using the `templates/new-language.md` file as a template
+    - Replace only the values in the curly braces: `{VARIABLE_TO_REPLACE}`
+        - `{YOUR_NAME}` is the name you want displayed. Please refer to the [Code of Conduct](../CODE_OF_CONDUCT.MD)
+        - `{LANG_CODE_1}` is ISO 639-1 code for the original language
+        - `{LANG_CODE_2}` is ISO 639-1 code for the translated language
+        - `{LANG_NAME_1}` is ISO 639-1 name for the original language
+        - `{LANG_NAME_2}` is ISO 639-1 name for the translated language
+    - Example file name: `en-es.md`
+- [ ] Create a new directory under `_data` with the language codes.
+    - Example: `en-es`
+- [ ] See below for [How to Add to a Language](#how-to-add-to-a-language)
+
+## How to Add to a Language
+
+- [ ] Create a new section file under the correct `_data` directory using the language codes as defined in ISO 639-1
+    - Example: `basics.json`(preferred) or `basics.csv` or `basics.yml` or `basics.yaml`
+    - For more information:
+      - [JSON Example](https://en.wikipedia.org/wiki/JSON#Example)
+      - [CSV Example](https://en.wikipedia.org/wiki/Comma-separated_values#Example)
+      - [YAML Example](https://en.wikipedia.org/wiki/YAML#Example)
+
 ## Style Guide
 
+- **Add a newline at the end of the file**
 - **Keep examples simple**: Use a few words or a short sentence that will translate fairly simple across multiple languages
 - **Basic concepts welcome**: This is aimed at language beginners (for now)
 - **Use UTF-8**: Try to leave out the byte-order-mark at the start of the file. (:set nobomb in Vim) - You can check if the file contains a BOM on Linux/Unix systems by running `file YOUR-FILE-NAME.EXT`. You will see this if it uses a BOM: UTF-8 Unicode (with BOM) text
