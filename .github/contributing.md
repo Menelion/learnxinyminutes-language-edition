@@ -11,6 +11,13 @@ Examples:
 
 We're happy for any contribution in any form, but if you're making more than one major change (i.e. translations for two different languages) it would be super cool of you to make a separate pull request for each one so that someone can review them more effectively and/or individually.
 
+## First Steps
+
+- [ ] Fork this repo
+- [ ] Create your feature branch (usually based on the languages you are working on)
+- [ ] Add your feature (See below)
+- [ ] Submit a pull request
+
 ## How to Add a New Language
 
 - [ ] Add a new Markdown file under `_languages` using the `templates/new-language.md` file as a template
