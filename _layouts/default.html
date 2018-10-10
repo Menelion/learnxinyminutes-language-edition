@@ -15,6 +15,7 @@
 		<meta charset="UTF-8">
 
 		{% seo %}
+		{% feed_meta %}
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="theme-color" content="#157878">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -49,7 +50,8 @@
 				<div class="col span_4_of_12">
 					<h2>Navigation</h2>
 					<ul>
-						{% for page in site.pages %}
+						{% assign pages = site.pages | sort: 'title' %}
+						{% for page in pages %}
 							{% if page.title %}
 							<li><a href="{{page.url | prepend: site.baseurl}}">{{page.title}}</a></li>
 							{% endif %}
