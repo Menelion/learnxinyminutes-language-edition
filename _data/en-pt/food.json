@@ -1,0 +1,75 @@
+[
+  {
+    "original": "Salt",
+    "translated": "(O) Sal"
+  },
+  {
+    "original": "Sauce",
+    "translated": "(O) Molho (de)"
+  },
+  {
+    "original": "Pepper",
+    "translated": "(A) Pimenta"
+  },
+  {
+    "original": "Soup",
+    "translated": "(A) Sopa"
+  },
+  {
+    "original": "Corn",
+    "translated": "(O) Milho"
+  },
+  {
+    "original_alternatives": ["Veal"],
+    "original": "Fillet",
+    "translated": "(O) Filé"
+  },
+  {
+    "original": "Sandwich",
+    "translated": "(O) Sanduíche"
+  },
+  {
+    "original": "Water",
+    "translated": "(A) Água"
+  },
+  {
+    "original": "Beer",
+    "translated": "(A) Cerveja"
+  },
+  {
+    "original": "Wine",
+    "translated": "(O) Vinho"
+  },
+  {
+    "original": "Milk",
+    "translated": "(O) Leite"
+  },
+  {
+    "original": "Coffee",
+    "translated": "(O) Café"
+  },
+  {
+    "original": "Bread",
+    "translated": "(O) Pão"
+  },
+  {
+    "original": "Butter",
+    "translated": "(A) Manteiga"
+  },
+  {
+    "original": "... Oil",
+    "translated": "(O) Óleo de ..."
+  },
+  {
+    "original": "Ham",
+    "translated": "(O) Presunto"
+  },
+  {
+    "original": "Salad",
+    "translated": "(A) Salada"
+  },
+  {
+    "original": "Potatoes",
+    "translated": "(As) Batatas"
+  }
+]

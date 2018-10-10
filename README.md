@@ -62,6 +62,11 @@ en-es
 
 - [Wayne Boka](https://github.com/wboka)
 
+en-pt
+
+- [Ygor Sad](https://github.com/ysads)
+
+
 en-fr
 
 - [Andre Polykanine](https://github.com/Menelion)

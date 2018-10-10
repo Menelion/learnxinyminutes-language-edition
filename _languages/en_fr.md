@@ -1,5 +1,5 @@
 ---
-author: Wayne Boka
+author: Andre Polykanine
 layout: default
 permalink: /en-fr
 tags: en fr english french
