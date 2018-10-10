@@ -24,3 +24,7 @@ collections:
 feed:
   collections:
     - languages
+
+github:
+  zip_url: https://github.com/wboka/learnxinyminutes-language-edition/zipball/master
+  tar_url: https://github.com/wboka/learnxinyminutes-language-edition/tarball/master
