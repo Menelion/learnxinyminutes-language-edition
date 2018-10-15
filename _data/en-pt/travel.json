@@ -1,0 +1,102 @@
+[
+  {
+    "original": "Where is ...?",
+    "translated_alternatives": ["Onde é ...?"],
+    "translated": "Onde fica ...?"
+  },
+  {
+    "original": "At the street ...?",
+    "translated": "Na rua ...?"
+  },
+  {
+    "original": "A train?",
+    "translated": "Um trem?"
+  },
+  {
+    "original": "The airport?",
+    "translated": "O aeroporto?"
+  },
+  {
+    "original": "A bank?",
+    "translated": "Um banco?"
+  },
+  {
+    "original": "A hotel?",
+    "translated": "Um hotel?"
+  },
+  {
+    "original": "An exchange?",
+    "translated": "Uma casa de câmbio?"
+  },
+  {
+    "original": "I need a/an ...",
+    "translated_alternatives": ["Preciso de ..."],
+    "translated": "Eu preciso de ..."
+  },
+  {
+    "original_alternatives": ["How much is it?"],
+    "original": "How much does it cost?",
+    "translated_alternatives": ["Quanto é?"],
+    "translated": "Quanto custa?"
+  },
+  {
+    "original": "What time is it?",
+    "translated": "Que horas são?"
+  },
+  {
+    "original_alternatives": ["Do you got ...?"],
+    "original": "Do you have ...?",
+    "translated_alternatives": ["Tem ...?"],
+    "translated": "Você tem ...?"
+  },
+  {
+    "original": "Yes, I have ...",
+    "translated": "Tenho ..., sim"
+  },
+  {
+    "original": "No, I don't have ...",
+    "translated": "Não tenho ..."
+  },
+  {
+    "original_alternatives": ["Can you speak ...?", "Do you understand ...?"],
+    "original": "Do you speak ...?",
+    "translated_alternatives": ["Você entende ...?", "Você compreende ...?"],
+    "translated": "Você fala ...?"
+  },
+  {
+    "original_alternatives": ["I understand ...", "I can speak ..."],
+    "original": "Yes, I speak ...",
+    "translated_alternatives": ["Sim, eu entendo ..."],
+    "translated": "Sim, eu falo ..."
+  },
+  {
+    "original_alternatives": ["I don't understand ...", "I can't speak ..."],
+    "original": "No, I don't speak ...",
+    "translated_alternatives": ["Não, não entendo ..."],
+    "translated": "Não, não falo ..."
+  },
+  {
+    "original_alternatives": ["Cash"],
+    "original": "Money",
+    "translated": "Dinheiro"
+  },
+  {
+    "original": "To the right",
+    "translated": "À direita"
+  },
+  {
+    "original": "To the left",
+    "translated": "À esquerda"
+  },
+  {
+    "original": "Right at the corner",
+    "translated_alternatives": ["Logo ali"],
+    "translated": "Na esquina"
+  },
+  {
+    "original_alternatives": ["Ahead"],
+    "original": "Straight",
+    "translated_alternatives": ["Adiante"],
+    "translated": "À frente"
+  }
+]

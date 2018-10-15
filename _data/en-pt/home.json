@@ -1,0 +1,69 @@
+[
+  {
+    "original": "Room",
+    "translated_alternatives": ["Lugar", "Ambiente"],
+    "translated": "Quarto"
+  },
+  {
+    "original": "Living room",
+    "translated_alternatives": ["Sala"],
+    "translated": "Sala de estar"
+  },
+  {
+    "original_alternatives": ["Cafeteria", "Cafe", "Dining hall", "Mess"],
+    "original": "Dining room",
+    "translated_alternatives": ["Refeitório"],
+    "translated": "Sala de jantar"
+  },
+  {
+    "original": "Kitchen",
+    "translated": "Cozinha"
+  },
+  {
+    "original": "Bedroom",
+    "translated_alternatives": ["Aposento"],
+    "translated": "Quarto"
+  },
+  {
+    "original_alternatives": ["Yard", "Backyard", "Courtyard"],
+    "original": "Garden",
+    "translated_alternatives": ["Quintal", "Horta", "Terreiro"],
+    "translated": "Jardim"
+  },
+  {
+    "original_alternatives": ["Parking garage", "Parking"],
+    "original": "Garage",
+    "translated_alternatives": ["Estacionamento"],
+    "translated": "Garagem"
+  },
+  {
+    "original": "Staircase",
+    "translated": "Escadas"
+  },
+  {
+    "original_alternatives": ["Gate", "Gateway"],
+    "original": "Door",
+    "translated_alternatives": ["Portão", "Portinhola", "Porteira"],
+    "translated": "Porta"
+  },
+  {
+    "original": "Window",
+    "translated": "Janela"
+  },
+  {
+    "original_alternatives": ["Restroom"],
+    "original": "Bathroom",
+    "translated_alternatives": ["Sanitário", "Lavabo"],
+    "translated": "Banheiro"
+  },
+  {
+    "original_alternatives": ["Place", "Home"],
+    "original": "House",
+    "translated_alternatives": ["Residência", "Domicílio"],
+    "translated": "Casa"
+  },
+  {
+    "original": "Apartment",
+    "translated": "Apartamento"
+  }
+]

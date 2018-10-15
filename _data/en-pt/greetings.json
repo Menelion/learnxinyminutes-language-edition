@@ -1,0 +1,81 @@
+[
+  {
+    "original_alternatives": ["Good day"],
+    "original": "Good morning",
+    "translated": "Bom dia"
+  },
+  {
+    "original": "Good afternoon",
+    "translated": "Boa tarde"
+  },
+  {
+    "original_alternatives": ["Good night"],
+    "original": "Good evening",
+    "translated": "Boa Noite"
+  },
+  {
+    "original_alternatives": ["Bye", "Bye Bye"],
+    "original": "Goodbye",
+    "translated_alternatives": ["Adeus"],
+    "translated": "Tchau"
+  },
+  {
+    "original_alternatives": ["See you later", "See you soon"],
+    "original": "See you",
+    "translated_alternatives": ["Até mais", "Nos vemos", "Até logo", "Até breve"],
+    "translated": "Te vejo mais tarde"
+  },
+  {
+    "original": "what's up?",
+    "translated": "E aí?"
+  },
+  {
+    "original_alternatives": ["how are you doing?"],
+    "original": "how are you?",
+    "translated_alternatives": ["Como vai?", "Como tem ido?", "Tudo bem?"],
+    "translated": "Como você está?"
+  },
+  {
+    "original": "What's your name?",
+    "translated_alternatives": ["Como se chama?"],
+    "translated": "Qual o seu nome?"
+  },
+  {
+    "original": "Thank you for asking",
+    "translated": "Obrigado por perguntar"
+  },
+  {
+    "original": "Nice to meet you",
+    "translated": "Prazer em te conhecer"
+  },
+  {
+    "original_alternatives": ["Thanks"],
+    "original": "Thank you",
+    "translated_alternatives": ["Grato"],
+    "translated": "Obrigado"
+  },
+  {
+    "original": "I love you",
+    "translated": "Te amo"
+  },
+  {
+    "original_alternatives": ["Sorry", "I feel sorry"],
+    "original": "I'm sorry",
+    "translated_alternatives": ["Sinto muito", "Perdão"],
+    "translated": "Desculpas"
+  },
+  {
+    "original_alternatives": ["I'm well, thanks"],
+    "original": "I'm fine, thanks",
+    "translated_alternatives": ["Estou bem"],
+    "translated": "Vou bem, obrigado"
+  },
+  {
+    "original": "So-so",
+    "translated": "Mais ou menos"
+  },
+  {
+    "original": "I'm bad",
+    "translated": "Estou mal"
+  }
+]
