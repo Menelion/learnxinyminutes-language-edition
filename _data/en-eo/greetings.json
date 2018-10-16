@@ -1,0 +1,75 @@
+[
+	{
+		"original_alternatives": ["Good day"],
+		"original": "Good morning",
+		"translated": "Bonan matenon"
+	},
+	{
+		"original": "Good afternoon",
+		"translated": "Bonan posttagmezon"
+	},
+	{
+		"original_alternatives": ["Good night"],
+		"original": "Good evening",
+		"translated": "Buenas vesperon"
+	},
+	{
+		"original_alternatives": ["Bye", "Bye Bye"],
+		"original": "Goodbye",
+		"translated": "adiaŭo"
+	},
+	{
+		"original_alternatives": ["See you later", "See you soon"],
+		"original": "See you later",
+		"translated": "Ĝis revido"
+	},
+	{
+		"original": "What's up?",
+		"translated": "Kio okazas?"
+	},
+	{
+		"original_alternatives": ["How are you doing?"],
+		"original": "How are you?",
+		"translated": "Kiel vi fartas?"
+	},
+	{
+		"original": "What's your name?",
+		"translated": "Kiel vi nomiĝas?"
+	},
+	{
+		"original": "Thank you for asking",
+		"translated": "Dankon pro petado"
+	},
+	{
+		"original": "Nice to meet you",
+		"translated_alternatives": ["Bonvenu renkonti vin"],
+		"translated": "Mi ĝojas renkonti vin"
+	},
+	{
+		"original_alternatives": ["Thanks"],
+		"original": "Thank you",
+		"translated": "Dankon"
+	},
+	{
+		"original": "I love you",
+		"translated": "Mi amas vin"
+	},
+	{
+		"original_alternatives": ["Sorry", "I feel sorry"],
+		"original": "I'm sorry",
+		"translated": "Mi bedaŭras"
+	},
+	{
+		"original_alternatives": ["I'm well, thanks"],
+		"original": "I'm fine, thanks",
+		"translated": "Mi bone, dankon"
+	},
+	{
+		"original": "So-so",
+		"translated": "do-do"
+	},
+	{
+		"original": "I'm bad",
+		"translated": "Mi estas malbona"
+	}
+]

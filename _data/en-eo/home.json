@@ -1,0 +1,62 @@
+[
+	{
+		"original": "Room",
+		"translated": "Ĉambro"
+	},
+	{
+		"original": "Living room",
+		"translated": "Salono"
+	},
+	{
+		"original_alternatives": ["Cafeteria", "Cafe", "Dining hall", "Mess hall"],
+		"original": "Dining room",
+		"translated": "Manĝoĉambro"
+	},
+	{
+		"original": "Kitchen",
+		"translated": "Kuirejo"
+	},
+	{
+		"original": "Bedroom",
+		"translated": "Dormoĉambro",
+		"translated_alternatives": ["Litoĉambro"]
+	},
+	{
+		"original_alternatives": ["Yard", "Backyard", "Courtyard"],
+		"original": "Garden",
+		"translated": "Korto"
+	},
+	{
+		"original_alternatives": ["Parking garage", "Parking"],
+		"original": "Garage",
+		"translated": "garaĝo"
+	},
+	{
+		"original": "Staircase",
+		"translated": "Ŝtuparo"
+	},
+	{
+		"original_alternatives": ["Gate", "Gateway"],
+		"original": "Door",
+		"translated": "Pordo"
+	},
+	{
+		"original": "Window",
+		"translated": "Fenestro"
+	},
+	{
+		"original_alternatives": ["Restroom"],
+		"original": "Bathroom",
+		"translated": "Banĉambro"
+	},
+	{
+		"original_alternatives": ["Place", "Home"],
+		"original": "House",
+		"translated_alternatives": ["Hejmo"],
+		"translated": "Domo"
+	},
+	{
+		"original": "Apartment",
+		"translated": "Apartamento"
+	}
+]
