@@ -1,0 +1,79 @@
+[
+  {
+    "original": "What do you recommend?",
+    "translated": "O que você recomenda?"
+  },
+  {
+    "original": "What's house specialty?",
+    "translated": "Qual é a especialidade da casa?"
+  },
+  {
+    "original_alternatives": ["I'll have ...", "May I have some ..."],
+    "original": "Could I have ...?",
+    "translated_alternatives": ["Eu quero ...", "Me traga um pouco de ..."],
+    "translated": "Poderia me trazer ...?"
+  },
+  {
+    "original": "Is there a vegetarian plate?",
+    "translated": "Existe algum prato vegetariano?"
+  },
+  {
+    "original": "Could I have the bill, please?",
+    "translated": "Me traga a conta, por favor"
+  },
+  {
+    "original": "What's today's menu?",
+    "translated_alternatives": ["Qual é o cardápio de hoje?", "Posso ver o menu do dia, por favor?"],
+    "translated": "Quais são as opções do dia?"
+  },
+  {
+    "original": "I'm allergic to ...",
+    "translated_alternatives": ["Sou alérgico a ..."],
+    "translated": "Tenho alergia a ..."
+  },
+  {
+    "original_alternatives": ["It's really tasty!"],
+    "original": "It's delicious!",
+    "translated_alternatives": ["Está ótimo!", "É muito saboroso!"],
+    "translated": "Está delicioso!"
+  },
+  {
+    "original": "It's horrible!",
+    "translated_alternatives": ["¡Es horrible!"],
+    "translated": "Está péssimo!"
+  },
+  {
+    "original": "I would like to drink ...",
+    "translated": "Para beber quero ...",
+  },
+  {
+    "original": "Can you give us a little more time to decide, please?",
+    "translated": "Poderia nos dar mais um momento para decidir, por favor?"
+  },
+  {
+    "original": "Waiter!",
+    "translated_alternatives": ["Atendente!"],
+    "translated": "Garçom!"
+  },
+  {
+    "original": "That's not what I asked for!",
+    "translated": "Não foi isso que pedi!"
+  },
+  {
+    "original": "Do you accept credit cards?",
+    "translated": "Aceitam cartão de crédito?"
+  },
+  {
+    "original": "Tip",
+    "translated_alternatives": ["Taxa de serviço", "Serviço"],
+    "translated": "Gorjeta"
+  },
+  {
+    "original": "Starter",
+    "translated": "(A) Entrada"
+  },
+  {
+    "original": "Dessert",
+    "translated": "(A) Sobremesa"
+  }
+]

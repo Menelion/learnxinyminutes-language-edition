@@ -13,6 +13,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 repository: wboka/learnxinyminutes-language-edition
 
 collections:
@@ -20,14 +21,10 @@ collections:
     output: true
     permalink: /:collection/:name
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+feed:
+  collections:
+    - languages
+
+github:
+  zip_url: https://github.com/wboka/learnxinyminutes-language-edition/zipball/master
+  tar_url: https://github.com/wboka/learnxinyminutes-language-edition/tarball/master

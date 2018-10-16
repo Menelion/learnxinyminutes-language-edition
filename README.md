@@ -6,6 +6,12 @@ permalink: /readme
 
 # Learn X in Y Minutes (Language Edition)
 
+
+[![GitHub license](https://img.shields.io/github/license/wboka/learnxinyminutes-language-edition.svg?style=flat-square)](https://github.com/wboka/learnxinyminutes-language-edition/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/wboka/learnxinyminutes-language-edition.svg?style=flat-square)](https://github.com/wboka/learnxinyminutes-language-edition/issues) [![GitHub forks](https://img.shields.io/github/forks/wboka/learnxinyminutes-language-edition.svg?style=flat-square)](https://github.com/wboka/learnxinyminutes-language-edition/network) 
+[![GitHub stars](https://img.shields.io/github/stars/wboka/learnxinyminutes-language-edition.svg?style=flat-square)](https://github.com/wboka/learnxinyminutes-language-edition/stargazers) [![Twitter](https://img.shields.io/twitter/url/https/github.com/wboka/learnxinyminutes-language-edition.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fwboka%2Flearnxinyminutes-language-edition)
+
+
+
 Inspired by [Learn X in Y Minutes](http://learnxinyminutes.com) and this [issue](https://github.com/adambard/learnxinyminutes-docs/issues/3007)
 
 ## Support
@@ -55,3 +61,12 @@ en-eo
 en-es
 
 - [Wayne Boka](https://github.com/wboka)
+
+en-pt
+
+- [Ygor Sad](https://github.com/ysads)
+
+
+en-fr
+
+- [Andre Polykanine](https://github.com/Menelion)

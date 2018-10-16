@@ -1,0 +1,14 @@
+[
+	{
+		"original_alternatives": ["Hi"],
+		"original": "Hello",
+		"translated_alternatives": ["Salut"],
+		"translated": "Bonjour"
+	},
+	{
+		"original_alternatives": ["Bye", "See you later", "See you soon"],
+		"original": "Goodbye",
+		"translated_alternatives": ["À bientôt"],
+		"translated": "Au revoir"
+	}
+]
