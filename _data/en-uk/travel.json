@@ -1,0 +1,96 @@
+[
+  {
+    "original": "Where is ...?",
+    "translated": "Де ...?"
+  },
+  {
+    "original": "At the street ...?",
+    "translated": "На вулиці ...?"
+  },
+  {
+    "original": "A train?",
+    "translated": "Поїзд?"
+  },
+  {
+    "original": "The airport?",
+    "translated": "Аеропорт?"
+  },
+  {
+    "original": "A bank?",
+    "translated": "Банк?"
+  },
+  {
+    "original": "A hotel?",
+    "translated": "Готель?"
+  },
+  {
+    "original": "An exchange?",
+    "translated": "Обмін валют?"
+  },
+  {
+    "original": "I need a/an ...",
+    "translated": "Мені потрібно ..."
+  },
+  {
+    "original": "How much does it cost?",
+    "translated": "Скільки це коштує?"
+  },
+  {
+    "original": "What time is it?",
+    "translated": "Котра година?"
+  },
+  {
+    "original": "Do you have ...?",
+    "translated": "Ви маєте ...?"
+  },
+  {
+    "original": "Yes, I have ...",
+    "translated": "Так, я маю ..."
+  },
+  {
+    "original": "No, I don't have ...",
+    "translated": "Ні, я не маю ..."
+  },
+  {
+    "original_alternatives": ["Can you speak ...?", "Do you understand ...?"],
+    "original": "Do you speak ...?",
+    "translated_alternatives": ["Ви можете говорити ...?", "Ви розумієте ...?"],
+    "translated": "Ви говорите ...?"
+  },
+  {
+    "original_alternatives": ["I understand ...", "I can speak ..."],
+    "original": "Yes, I speak ...",
+    "translated_alternatives": ["Я розумію ...", "Я можу говорити"],
+    "translated": "Так, я говорю ..."
+  },
+  {
+    "original_alternatives": ["I don't understand ...", "I can't speak ..."],
+    "original": "No, I don't speak ...",
+    "translated_alternatives": ["Я не розумію ...", "Я не можу говорити"],
+    "translated": "Ні, я не говорю ..."
+  },
+  {
+    "original_alternatives": ["Cash"],
+    "original": "Money",
+    "translated_alternatives": ["Готівка"],
+    "translated": "Гроші"
+  },
+  {
+    "original": "To the right",
+    "translated": "Направо"
+  },
+  {
+    "original": "To the left",
+    "translated": "Наліво"
+  },
+  {
+    "original": "Right at the corner",
+    "translated": "Прямо на розі"
+  },
+  {
+    "original_alternatives": ["Ahead"],
+    "original": "Straight",
+    "translated_alternatives": ["Попереду"],
+    "translated": "Прямо"
+  }
+]

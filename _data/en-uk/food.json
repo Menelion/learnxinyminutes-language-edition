@@ -1,0 +1,75 @@
+[
+  {
+    "original": "Salt",
+    "translated": "Сіль"
+  },
+  {
+    "original": "Sauce",
+    "translated": "Соус"
+  },
+  {
+    "original": "Pepper",
+    "translated": "Перець"
+  },
+  {
+    "original": "Soup",
+    "translated": "Суп"
+  },
+  {
+    "original": "Corn",
+    "translated": "Кукурудза"
+  },
+  {
+    "original_alternatives": ["Veal"],
+    "original": "Fillet",
+    "translated": "Філе"
+  },
+  {
+    "original": "Sandwich",
+    "translated": "Сендвіч"
+  },
+  {
+    "original": "Water",
+    "translated": "Вода"
+  },
+  {
+    "original": "Beer",
+    "translated": "Пиво"
+  },
+  {
+    "original": "Wine",
+    "translated": "Вино"
+  },
+  {
+    "original": "Milk",
+    "translated": "Молоко"
+  },
+  {
+    "original": "Coffee",
+    "translated": "Кава"
+  },
+  {
+    "original": "Bread",
+    "translated": "Хліб"
+  },
+  {
+    "original": "Butter",
+    "translated": "Масло"
+  },
+  {
+    "original": "... Oil",
+    "translated": "Олія"
+  },
+  {
+    "original": "Ham",
+    "translated": "Шинка"
+  },
+  {
+    "original": "Salad",
+    "translated": "Салат"
+  },
+  {
+    "original": "Potatoes",
+    "translated": "Картопля"
+  }
+]
