@@ -1,0 +1,80 @@
+[
+  {
+    "original_alternatives": ["Good day"],
+    "original": "Good morning",
+    "translated": "Доброго ранку"
+  },
+  {
+    "original": "Good afternoon",
+    "translated": "Доброго вечора"
+  },
+  {
+    "original_alternatives": ["Good night"],
+    "original": "Good evening",
+    "translated": "На добраніч"
+  },
+  {
+    "original_alternatives": ["Bye", "Bye Bye"],
+    "original": "Goodbye",
+    "translated_alternatives": ["Бувай"],
+    "translated": "До побачення"
+  },
+  {
+    "original_alternatives": ["See you later", "See you soon"],
+    "original": "See you",
+    "translated_alternatives": ["До зустрічі", "До завтра"],
+    "translated": "Побачимось"
+  },
+  {
+    "original": "what's up?",
+    "translated": "Як справи?"
+  },
+  {
+    "original_alternatives": ["how are you doing?"],
+    "original": "how are you?",
+    "translated_alternatives": ["Як справи?"],
+    "translated": "Як ти?"
+  },
+  {
+    "original": "What's your name?",
+    "translated": "Як тебе звати?"
+  },
+  {
+    "original": "Thank you for asking",
+    "translated": "Дякую за питання"
+  },
+  {
+    "original": "Nice to meet you",
+    "translated": "Приємно познайомитись"
+  },
+  {
+    "original_alternatives": ["Thanks"],
+    "original": "Thank you",
+    "translated_alternatives": ["Дякую"],
+    "translated": "Дякую тобі"
+  },
+  {
+    "original": "I love you",
+    "translated": "Я кохаю тебе"
+  },
+  {
+    "original_alternatives": ["Sorry", "I feel sorry"],
+    "original": "I'm sorry",
+    "translated_alternatives": ["Вибачте"],
+    "translated": "Мені шкода"
+  },
+  {
+    "original_alternatives": ["I'm well, thanks"],
+    "original": "I'm fine, thanks",
+    "translated_alternatives": [],
+    "translated": "Я в порядку, дякую"
+  },
+  {
+    "original": "So-so",
+    "translated": "Так собі"
+  },
+  {
+    "original": "I'm bad",
+    "translated": "Я поганий"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "original": "What do you recommend?",
+    "translated": "Що ви порадите?"
+  },
+  {
+    "original": "What's house specialty?",
+    "translated": "Яка спеціальність будинку?"
+  },
+  {
+    "original_alternatives": ["I'll have ...", "May I have some ..."],
+    "original": "Could I have ...?",
+    "translated_alternatives": ["Я буду ...", "Чи можу я ..."],
+    "translated": "Можна мені ...?"
+  },
+  {
+    "original": "Is there a vegetarian plate?",
+    "translated": "Чи є вегетаріанська тарілка?"
+  },
+  {
+    "original": "Could I have the bill, please?",
+    "translated": "Чи можу я отримати рахунок, будь ласка?"
+  },
+  {
+    "original": "What's today's menu?",
+    "translated": "Що сьогодні в меню?"
+  },
+  {
+    "original": "I'm allergic to ...",
+    "translated": "У мене алергія на ..."
+  },
+  {
+    "original": "It's delicious!",
+    "translated": "Це смачно!"
+  },
+  {
+    "original": "It's horrible!",
+    "translated": "Це жахливо!"
+  },
+  {
+    "original": "I would like to drink ...",
+    "translated": "Я хотів/ла б випити ..."
+  },
+  {
+    "original": "Can you give us a little more time to decide, please?",
+    "translated": "Ви можете дати нам трохи більше часу, щоб вирішити, будь ласка?"
+  },
+  {
+    "original": "Waiter!",
+    "translated": "Офіціанте!"
+  },
+  {
+    "original": "That's not what I asked for!",
+    "translated": "Це не те, що я замовляв/ла!"
+  },
+  {
+    "original": "Do you accept credit cards?",
+    "translated": "Ви приймаєте кредитні карти?"
+  },
+  {
+    "original": "Tip",
+    "translated": "Чайові"
+  },
+  {
+    "original": "Starter",
+    "translated": "Закуска"
+  },
+  {
+    "original": "Dessert",
+    "translated": "Десерт"
+  }
+]

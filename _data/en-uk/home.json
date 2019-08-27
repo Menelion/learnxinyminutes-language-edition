@@ -1,0 +1,64 @@
+[
+  {
+    "original": "Room",
+    "translated": "Кімната"
+  },
+  {
+    "original": "Living room",
+    "translated": "Вітальня"
+  },
+  {
+    "original_alternatives": ["Cafeteria", "Cafe", "Dining hall", "Mess"],
+    "original": "Dining room",
+    "translated_alternatives": ["Кафетерія", "Кафе"],
+    "translated": "Їдальня"
+  },
+  {
+    "original": "Kitchen",
+    "translated": "Кухня"
+  },
+  {
+    "original": "Bedroom",
+    "translated": "Спальня кімната"
+  },
+  {
+    "original_alternatives": ["Yard", "Backyard", "Courtyard"],
+    "original": "Garden",
+    "translated_alternatives": ["Двір", "Задній двір", "Внутрішній двір"],
+    "translated": "Сад"
+  },
+  {
+    "original": "Garage",
+    "translated": "Гараж"
+  },
+  {
+    "original": "Staircase",
+    "translated": "Сходи"
+  },
+  {
+    "original_alternatives": ["Gate", "Gateway"],
+    "original": "Door",
+    "translated_alternatives": ["Ворота", "Брама"],
+    "translated": "Двері"
+  },
+  {
+    "original": "Window",
+    "translated": "Вікно"
+  },
+  {
+    "original_alternatives": ["Restroom"],
+    "original": "Bathroom",
+    "translated_alternatives": ["Туалет", "Вбиральня"],
+    "translated": "Ванна кімната"
+  },
+  {
+    "original_alternatives": ["Place", "Home"],
+    "original": "House",
+    "translated_alternatives": ["Місце", "Дім"],
+    "translated": "Будинок"
+  },
+  {
+    "original": "Apartment",
+    "translated": "Квартира"
+  }
+]
