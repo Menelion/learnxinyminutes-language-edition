@@ -70,3 +70,7 @@ en-pt
 en-fr
 
 - [Andre Polykanine](https://github.com/Menelion)
+
+en-uk
+
+- [Valeria Kolisnyk](https://github.com/kolisnyklera)
