@@ -20,6 +20,17 @@ Language Combinations: {{site.languages | size}}
 
 [I want to contribute!](https://github.com/wboka/learnxinyminutes-language-edition/blob/master/.github/contributing.md)
 
+### Contributors
+
+A BIG thank you to the following contributors.
+
+|       | Contributor | Contributions |
+| :---: | ----------- | ------------: |
+{% for contributor in site.github.contributors -%}
+
+| <img src="{{contributor.avatar_url}}" alt="{{contributor.login}}'s avatar" width="32" height="32" /> | [{{ contributor.login }}]({{ contributor.html_url}}) | {{contributor.contributions}} |
+{% endfor %}
+
 ### Do you see a language combination missing?
 
 Copy one of the three templates below and add the missing information with a pull request (see below). Please keep sections separate: numbers in one file and greetings in another under the two letter code pattern that exists.
