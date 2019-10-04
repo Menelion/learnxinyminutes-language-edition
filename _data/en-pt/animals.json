@@ -1,0 +1,81 @@
+[
+    {
+        "original": "Bird",
+        "translated": "Pássaro"
+    },
+    {
+        "original": "Fish",
+        "translated": "Peixe"
+    },
+    {
+        "original": "Mammals",
+        "translated": "Mamíferos"
+    },
+    {
+        "original": "Cow",
+        "translated": "Vaca"
+    },
+    {
+        "original": "Pig",
+        "translated": "Porco"
+    },
+    {
+        "original": "Chicken",
+        "translated": "Galinha"
+    },
+    {
+        "original": "Rooster",
+        "translated": "Galo"
+    },
+    {
+        "original": "Cat",
+        "translated": "Gato"
+    },
+    {
+        "original": "Dog",
+        "translated_alternatives": ["Cadela"],
+        "translated": "Cachorro"
+    },
+    {
+        "original": "Horse",
+        "translated": "Cavalo"
+    },
+    {
+        "original": "Bull",
+        "translated": "Touro"
+    },
+    {
+        "original": "Snake",
+        "translated_alternatives": ["Serpente"],
+        "translated": "Cobra"
+    },
+    {
+        "original": "Ant",
+        "translated": "Formiga"
+    },
+    {
+        "original": "Dove",
+        "translated": "Pomba"
+    },
+    {
+        "original": "Lion",
+        "translated": "Leão"
+    },
+    {
+        "original": "Monkey",
+        "translated": "Macaco"
+    },
+    {
+        "original": "Fox",
+        "translated": "Raposa"
+    },
+    {
+        "original": "Tiger",
+        "translated_alternatives": ["Tigresa"],
+        "translated": "Tigre"
+    },
+    {
+        "original": "Panther",
+        "translated": "Pantera"
+    }
+]
