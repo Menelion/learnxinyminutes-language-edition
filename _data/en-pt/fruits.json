@@ -1,0 +1,98 @@
+[
+  {
+    "original": "Grape",
+    "translated": "(A) Uva"
+  },  
+  {
+    "original": "Tomato",
+    "translated": "(O) Tomate"
+  },
+    {
+    "original": "Guava",
+    "translated": "(A) Goiaba"
+  },
+  {
+    "original": "Pineaple",
+    "translated": "(O) Abacaxi"
+  },
+  {
+    "original": "Strawberry",
+    "translated": "(O) Morango"
+  },
+  {
+    "original": "Banana",
+    "translated": "(A) Banana"
+  },
+  {
+    "original": "Pineaple",
+    "translated": "(O) Abacaxi"
+  },
+  {
+    "original": "Apple",
+    "translated": "(A) Maçã"
+  },
+  {
+    "original": "Avocado",
+    "translated": "(O) Abacate"
+  },
+  {
+    "original": "Blackcurrant",
+    "translated": "(A) Jaboticaba"
+  },
+  {
+    "original": "Blackberry",
+    "translated": "(A) Amora"
+  },
+  {
+    "original": "Fig",
+    "translated": "(O) Figo"
+  },
+  {
+    "original": "Kiwi",
+    "translated": "(O) Kiwi"
+  },
+  {
+    "original": "Lemon",
+    "translated": "(O) Limão"
+  },
+  {
+    "original": "Lime",
+    "translated": "(A) Lima"
+  },
+  {
+    "original": "Lychee",
+    "translated": "(A) Lichia"
+  },
+  {
+    "original": "Mango",
+    "translated": "(A) Manga"
+  },
+  {
+    "original": "Nectarine",
+    "translated": "(A) Nectarina"
+  },
+  {
+    "original": "Peach",
+    "translated": "(O) Pêssego"
+  },
+  {
+    "original": "Pear",
+    "translated": "(A) Pêra"
+  },
+  {
+    "original": "Plum",
+    "translated": "(A) Ameixa"
+  },
+  {
+    "original": "Watermellon",
+    "translated": "(A) Melancia"
+  },
+  {
+    "original": "Passion Fruit",
+    "translated": "(O) Maracujá"
+  },
+  {
+    "original": "Pomegranade",
+    "translated": "(A) Romã"
+  },
+]
