@@ -1,0 +1,79 @@
+[
+	{
+		"original": "Salt",
+		"translated": "(le) Sel"
+	},
+	{
+		"original": "Sauce",
+		"translated": "(La) Sauce (à)"
+	},
+	{
+		"original": "Pepper",
+		"translated": "(Le) Poivre"
+	},
+	{
+		"original": "Soup",
+		"translated": "(La) Soupe"
+	},
+	{
+		"original": "Corn",
+		"translated": "(Le) Maïs"
+	},
+	{
+		"original_alternatives": ["Veal"],
+		"original": "Fillet",
+		"translated": "(Le) Filet"
+	},
+	{
+		"original": "Sandwich",
+		"translated": "(Le) Sandwich"
+	},
+	{
+		"original": "Water",
+		"translated": "(L') Eau"
+	},
+	{
+		"original": "Beer",
+		"translated": "(La) Bière"
+	},
+	{
+		"original": "Wine",
+		"translated": "(Le) Vin"
+	},
+	{
+		"original": "Milk",
+		"translated": "(Le) Lait"
+	},
+	{
+		"original": "Coffee",
+		"translated": "(Le) Café"
+	},
+	{
+		"original": "Tea",
+		"Translated": "(Le) Thé"
+	},
+	{
+		"original": "Bread",
+		"translated": "(Le) Pain"
+	},
+	{
+		"original": "Butter",
+		"translated": "(Le) Beurre"
+	},
+	{
+		"original": "... Oil",
+		"translated": "(L') Huile de ..."
+	},
+	{
+		"original": "Ham",
+		"translated": "(Le) Jambon"
+	},
+	{
+		"original": "Salad",
+		"translated": "(La) Salade"
+	},
+	{
+		"original": "Potatoes",
+		"translated": "(Les) Pommes de terre"
+	}
+]

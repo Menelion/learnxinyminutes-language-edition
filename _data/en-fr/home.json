@@ -1,0 +1,68 @@
+[
+  {
+    "original": "Room",
+    "translated_alternatives": ["(la) Chambre"],
+    "translated": "(la) Pièce"
+  },
+  {
+    "original": "Living room",
+    "translated": "(le) Salon"
+  },
+  {
+    "original_alternatives": ["Cafeteria", "Cafe", "Dining hall", "mess"],
+    "original": "Dining room",
+    "translated_alternatives": ["(le) Réfectoire", "(la) Cantine", "(le) Mess"],
+    "translated": "(la) Salle à manger"
+  },
+  {
+    "original": "Kitchen",
+    "translated": "(la) Cuisine"
+  },
+  {
+    "original": "Bedroom",
+    "translated_alternatives": ["(le) Dortoir"],
+    "translated": "(la) Chambre à coucher"
+  },
+  {
+    "original_alternatives": ["Yard", "Backyard", "Courtyard"],
+    "original": "Garden",
+    "translated_alternatives": ["(la) Cour"],
+    "translated": "(le) Jardin"
+  },
+  {
+    "original_alternatives": ["Parking garage", "Parking"],
+    "original": "Garage",
+    "translated_alternatives": ["(le) Parking"],
+    "translated": "(le) Garage"
+  },
+  {
+    "original": "Staircase",
+    "translated": "(l') Escalier"
+  },
+  {
+    "original_alternatives": ["Gate", "Gateway"],
+    "original": "Door",
+    "translated": "(la) Porte"
+  },
+  {
+    "original": "Window",
+    "translated": "(la) Fenêtre"
+  },
+  {
+    "original_alternatives": ["Restroom", "WC"],
+    "original": "Bathroom",
+    "translated_alternatives": ["(les) Toilettes", "(les) WC"],
+    "translated": "(la) Salle de bain"
+  },
+  {
+    "original_alternatives": ["Home"],
+    "original": "House",
+    "translated": "(la) Maison"
+  },
+  {
+    "original_alternatives": ["Flat"],
+    "original": "Apartment",
+    "translated_alternatives": ["(le) Logement"],
+    "translated": "(l') Appartement"
+  }
+]

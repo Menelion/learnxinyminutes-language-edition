@@ -8,7 +8,7 @@
 	{
 		"original_alternatives": ["Bye", "See you later", "See you soon"],
 		"original": "Goodbye",
-		"translated_alternatives": ["À bientôt"],
+		"translated_alternatives": ["À bientôt", "À plus tard"],
 		"translated": "Au revoir"
 	}
 ]

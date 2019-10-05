@@ -1,0 +1,83 @@
+[
+  {
+    "original": "What do you recommend?",
+    "translated": "Qu'est-ce que vous me recommandez?"
+  },
+  {
+    "original": "What's house specialty?",
+    "translated": "Quelle est la spécialité de la maison?"
+  },
+  {
+    "original_alternatives": ["I'll have ...", "May I have some ..."],
+    "original": "Could I have ...?",
+    "translated_alternatives": ["Pourriez-vous me donner un peu de..."],
+    "translated": "Je voudrais..."
+  },
+  {
+    "original": "Is there a vegetarian plate?",
+    "translated": "Avez-vous un plat végétarien?"
+  },
+  {
+    "original": "Could I have the bill, please?",
+    "translated": "L'addition, s'il vous plaît."
+  },
+  {
+    "original": "What's today's menu?",
+    "translated": "Quel est le menu d'aujourd'hui?"
+  },
+  {
+    "original": "I'm allergic to ...",
+    "translated": "Je suis allergique à..."
+  },
+  {
+    "original_alternatives": ["It's really tasty!"],
+    "original": "It's delicious!",
+    "translated_alternatives": ["Que c'est bon!", "C'est vraiment délicieux!"],
+    "translated": "C'est bon!"
+  },
+  {
+    "original": "It's horrible!",
+    "translated": "C'est horrible!",
+  },
+  {
+    "original": "I would like to drink ...",
+    "translated_alternatives": ["Je voudrais prendre...", "Je prendrais..."],
+    "translated": "Je voudrais boire...",
+  },
+  {
+    "original": "Can you give us a little more time to decide, please?",
+    "translated": "Pourriez-vous nous donner un peu plus de temps pour nous décider?"
+  },
+  {
+    "original": "Waiter!",
+    "translated": "Serveur!"
+  },
+  {
+    "original": "That's not what I asked for!",
+    "translated": "Ce n'est pas ce que j'ai demandé!"
+  },
+  {
+    "original": "Do you accept credit cards?",
+    "translated": "Est-ce que vous acceptez des cartes de crédit?"
+  },
+  {
+    "original": "Tip",
+    "translated": "Pourboire"
+  },
+  {
+    "original": "Starter",
+    "translated": "Entrée"
+  },
+  {
+    "original": "Small portion",
+    "translated": "(la) petite portion"
+  },
+  {
+    "original": "Full Portion",
+    "translated": "(la) portion complète"
+  },
+  {
+    "original": "Dessert",
+    "translated": "(le) Dessert"
+  }
+]
