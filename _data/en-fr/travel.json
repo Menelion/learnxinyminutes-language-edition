@@ -1,0 +1,109 @@
+[
+  {
+    "original": "Where is ...?",
+    "translated": "Où est...?"
+  },
+  {
+    "original": "At the street ...?",
+    "translated": "La rue...?"
+  },
+  {
+    "original": "A train?",
+    "translated": "Un train?"
+  },
+  {
+    "original": "The airport?",
+    "translated": "L'aéroport?"
+  },
+  {
+    "original": "A bank?",
+    "translated": "Un banc?"
+  },
+  {
+    "original": "A hotel?",
+    "translated": "Un hôtel?"
+  },
+  {
+    "original": "An exchange?",
+    "translated": "Un bureau d'échange?"
+  },
+  {
+    "original": "I need a/an ...",
+    "translated": "J'ai besoin d'un/une..."
+  },
+  {
+    "original_alternatives": ["How much is it?"],
+    "original": "How much does it cost?",
+    "translated": "Combien ça coûte?"
+  },
+  {
+    "original": "What time is it?",
+    "translated": "Quelle heure est-il?"
+  },
+  {
+    "original": "Do you have ...?",
+    "translated": "Avez-vous...?"
+  },
+  {
+    "original": "Yes, I have ...",
+    "translated": "Oui, j'ai..."
+  },
+  {
+    "original": "No, I don't have ...",
+    "translated": "Non, je n'ai pas..."
+  },
+  {
+    "original_alternatives": ["Can you speak ...?", "Do you understand ...?"],
+    "original": "Do you speak ...?",
+    "translated_alternatives": ["Est-ce que vous parlez...?", "Comprenez-vous...?", "Est-ce que vous comprenez...?"],
+    "translated": "Parlez-vous...?"
+  },
+  {
+    "original_alternatives": ["I understand ...", "I can speak ..."],
+    "original": "Yes, I speak ...",
+    "translated_alternatives": ["Oui, je comprends..."],
+    "translated": "Oui, je parle..."
+  },
+  {
+    "original_alternatives": ["I don't understand ...", "I can't speak ..."],
+    "original": "No, I don't speak ...",
+    "translated_alternatives": ["Non, je ne comprends pas..."],
+    "translated": "Non, je ne parle pas..."
+  },
+  {
+    "original": "Money",
+    "translated": "Argent"
+  },
+  {
+    "original": "Cash",
+    "translation_alternatives": ["En espèces"],
+    "translation": "Comptant"
+  },
+  {
+    "original": "Credit card",
+    "translation_alternatives": ["(la) Carte bleue"],
+    "translation": "(la) Carte de crédit"
+  },
+  {
+    "original": "Coin",
+    "translation_alternatives": ["(la) Monnaie", "(la) Pièce de monnaie"],
+    "translation": "(la) Pièce"
+  }
+      {
+    "original": "To the right",
+    "translated": "À droite"
+  },
+  {
+    "original": "To the left",
+    "translated": "À gauche"
+  },
+  {
+    "original": "Right at the corner",
+    "translated": "Au coin"
+  },
+  {
+    "original_alternatives": ["Ahead"],
+    "original": "Straight",
+    "translated": "Tout droit"
+  },
+]

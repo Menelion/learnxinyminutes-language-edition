@@ -1,0 +1,78 @@
+[
+	{
+		"original_alternatives": ["Good day"],
+		"original": "Good morning",
+		"translated": "Bonjour"
+	},
+	{
+		"original": "Good afternoon",
+		"translated": "Bon après-midi"
+	},
+	{
+		"original_alternatives": ["Good night"],
+		"original": "Good evening",
+		"translated": "Bonsoir"
+	},
+	{
+		"original_alternatives": ["Bye", "Bye Bye"],
+		"original": "Goodbye",
+		"translated": "Au revoir"
+	},
+	{
+		"original_alternatives": ["See you later", "See you soon"],
+		"original": "See you",
+		"translated_alternatives": ["À tout à l'heure", "À plus tard", "À plus"],
+		"translated": "À bientôt"
+	},
+	{
+		"original": "What's up?",
+		"translated_alternatives": ["Ça va?"],
+		"translated": "Comment ça va?"
+	},
+	{
+		"original_alternatives": ["How are you doing?"],
+		"original": "How are you?",
+		"translated_alternatives": ["Comment tu vas?"],
+		"translated": "Comment vas-tu?"
+	},
+	{
+		"original": "What's your name?",
+		"translated_alternatives": ["Tu t'appelles comment?", "Quel est ton prénom?", "Quel est ton nom?"],
+		"translated": "Comment t'appelles-tu?"
+	},
+	{
+		"original": "Thank you for asking",
+		"translated": "Merci pour avoir demandé"
+	},
+	{
+		"original": "Nice to meet you",
+		"translated": "Mucho gusto"
+	},
+	{
+		"original_alternatives": ["Thanks"],
+		"original": "Thank you",
+		"translated": "Grácias"
+	},
+	{
+		"original": "I love you",
+		"translated": "Te amo"
+	},
+	{
+		"original_alternatives": ["Sorry", "I feel sorry"],
+		"original": "I'm sorry",
+		"translated": "Lo siento"
+	},
+	{
+		"original_alternatives": ["I'm well, thanks"],
+		"original": "I'm fine, thanks",
+		"translated": "Bien, gracias"
+	},
+	{
+		"original": "So-so",
+		"translated": "Más o menos"
+	},
+	{
+		"original": "I'm bad",
+		"translated": "Estoy mal"
+	}
+]
