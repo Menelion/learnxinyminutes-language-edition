@@ -1,0 +1,64 @@
+[
+  {
+    "original": "Room",
+    "translated": "Комната"
+  },
+  {
+    "original": "Living room",
+    "translated": "Гостиная"
+  },
+  {
+    "original_alternatives": ["Cafeteria", "Cafe", "Dining hall", "Mess"],
+    "original": "Dining room",
+    "translated_alternatives": ["Кафетерий", "Кафе"],
+    "translated": "Столовая"
+  },
+  {
+    "original": "Kitchen",
+    "translated": "Кухня"
+  },
+  {
+    "original": "Bedroom",
+    "translated": "Спальня"
+  },
+  {
+    "original_alternatives": ["Yard", "Backyard", "Courtyard"],
+    "original": "Garden",
+    "translated_alternatives": ["Двор", "Задний двор", "Внутренний двор"],
+    "translated": "Сад"
+  },
+  {
+    "original": "Garage",
+    "translated": "Гараж"
+  },
+  {
+    "original": "Staircase",
+    "translated": "Лестница"
+  },
+  {
+    "original_alternatives": ["Gate", "Gateway"],
+    "original": "Door",
+    "translated_alternatives": ["Ворота"],
+    "translated": "Дверь"
+  },
+  {
+    "original": "Window",
+    "translated": "Окно"
+  },
+  {
+    "original_alternatives": ["Restroom"],
+    "original": "Bathroom",
+    "translated_alternatives": ["Туалет", "Уборная"],
+    "translated": "Ванная комната"
+  },
+  {
+    "original_alternatives": ["Place", "Home"],
+    "original": "House",
+    "translated_alternatives": ["Место"],
+    "translated": "Дом"
+  },
+  {
+    "original": "Apartment",
+    "translated": "Квартира"
+  }
+]

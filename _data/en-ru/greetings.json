@@ -1,0 +1,85 @@
+[
+  {
+    "original_alternatives": ["Good day"],
+    "original": "Good morning",
+    "translated": "Доброе утро"
+  },
+  {
+    "original": "Good afternoon",
+    "translated": "Добрый день"
+  },
+  {
+    "original": "Good evening",
+    "translated": "Добрый вечер"
+  },
+  {
+    "original": "Good night",
+    "translated_alternatives": ["Доброй ночи"],
+    "translated": "Спокойной ночи"
+  {
+    "original_alternatives": ["Bye", "Bye Bye"],
+    "original": "Goodbye",
+    "translated_alternatives": ["Пока"],
+    "translated": "До свидания"
+  },
+  {
+    "original_alternatives": ["See you later", "See you soon"],
+    "original": "See you",
+    "translated_alternatives": ["До встречи", "Увидимся"],
+    "translated": "До скорого"
+  },
+  {
+    "original": "what's up?",
+    "translated": "Как дела?"
+  },
+  {
+    "original_alternatives": ["how are you doing?"],
+    "original": "how are you?",
+    "translated_alternatives": ["Как поживаешь?", "Как вы?", "Как ты?"],
+    "translated": "Как поживаете?"
+  },
+  {
+    "original": "What's your name?",
+    "translated_alternatives": ["Как тебя зовут?"]
+    "translated": "Как вас зовут?"
+  },
+  {
+    "original": "Thank you for asking",
+    "translated": "Спасибо за вопрос"
+  },
+  {
+    "original": "Nice to meet you",
+    "translated": "Приятно познакомиться"
+  },
+  {
+    "original_alternatives": ["Thanks"],
+    "original": "Thank you",
+    "translated": "Спасибо"
+  },
+  {
+    "original": "I love you",
+    "translated_alternatives": ["Я вас люблю"],
+    "translated": "Я тебя люблю"
+  },
+  {
+    "original_alternatives": ["Sorry", "I feel sorry"],
+    "original": "I'm sorry",
+    "translated_alternatives": ["Извини"],
+    "translated": "Извините"
+  },
+  {
+    "original_alternatives": ["I'm well, thanks"],
+    "original": "I'm fine, thanks",
+    "translated_alternatives": ["Я в порядке, спасибо"],
+    "translated": "Спасибо, хорошо"
+  },
+  {
+    "original": "So-so",
+    "translated": "Так себе"
+  },
+  {
+    "original": "I'm bad",
+    "translated_alternatives": ["Мне плохо", "Я плохо себя чувствую"],
+    "translated": "Плохо"
+  }
+]

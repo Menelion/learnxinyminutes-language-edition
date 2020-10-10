@@ -1,0 +1,14 @@
+[
+	{
+		"original_alternatives": ["Hi"],
+		"original": "Hello",
+		"translated_alternatives": ["Здравствуйте", "Здравствуй"],
+		"translated": "Привет"
+	},
+	{
+		"original_alternatives": ["Bye"],
+		"original": "Goodbye",
+		"translated_alternatives": ["Пока"],
+		"translated": "До свидания"
+	}
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "original": "Salt",
+    "translated": "Соль"
+  },
+  {
+    "original": "Sauce",
+    "translated": "Соус"
+  },
+  {
+    "original": "Pepper",
+    "translated": "Перец"
+  },
+  {
+    "original": "Soup",
+    "translated": "Суп"
+  },
+  {
+    "original": "Corn",
+    "translated": "Кукуруза"
+  },
+  {
+    "original_alternatives": ["Veal"],
+    "original": "Fillet",
+    "translated": "Филе"
+  },
+  {
+    "original": "Sandwich",
+    "translated_alternatives": ["Сэндвіч"],
+    "translated": "Бутерброд"
+  },
+  {
+    "original": "Water",
+    "translated": "Вода"
+  },
+  {
+    "original": "Beer",
+    "translated": "Пиво"
+  },
+  {
+    "original": "Wine",
+    "translated": "Вино"
+  },
+  {
+    "original": "Milk",
+    "translated": "Молоко"
+  },
+  {
+    "original": "Coffee",
+    "translated": "Кава"
+  },
+  {
+    "original": "Tea",
+    "translated": "Чай"
+  },
+  {
+    "original": "Bread",
+    "translated": "Хлеб"
+  },
+  {
+    "original": "Butter",
+    "translated": "Масло"
+  },
+  {
+    "original": "... Oil",
+    "translated": "... Масло"
+  },
+  {
+    "original": "Ham",
+    "translated": "Ветчина"
+  },
+  {
+    "original": "Salad",
+    "translated": "Салат"
+  },
+  {
+    "original": "Potatoes",
+    "translated": "Картофель"
+  }
+]

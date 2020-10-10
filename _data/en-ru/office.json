@@ -1,0 +1,100 @@
+[
+  {
+    "original": "Meeting will be at 8 a.m.",
+    "translated": "Собрание состоится в 8 утра"
+  },
+  {
+    "original": "Can we have a meeting next week?",
+    "translated": "Мы можем встретиться на следующей неделе?"
+  },
+  {
+    "original": "Our team will sign the contract with the client",
+    "translated": "Наша команда подпишет контракт с клиентом"
+  },
+  {
+    "original": "Please, leave a message",
+    "translated": "Пожалуйста, оставьте сообщение"
+  },
+  {
+    "original": "Round-trip flight",
+    "translated": "Полёт туда и обратно"
+  },
+  {
+    "original": "Business card",
+    "translated": "Визитная карточка"
+  },
+  {
+    "original": "Full-time job",
+    "translated": "Полная занятость"
+  },
+  {
+    "original": "Part-time job",
+    "translated": "Частичная занятость"
+  },
+  {
+    "original": "Internship",
+    "translated": "Стажировка"
+  },
+  {
+    "original": "Accounting",
+    "translated": "Бухгалтерский учёт"
+  },
+  {
+    "original": "Consulting",
+    "translated": "Консалтинг"
+  },
+  {
+    "original": "Market",
+    "translated": "Рынок"
+  },
+  {
+    "original": "Insurance",
+    "translated": "Страхование"
+  },
+  {
+    "original": "Stock exchange",
+    "translated": "Фондовая биржа"
+  },
+  {
+    "original": "Bankruptcy",
+    "translated": "Банкротство"
+  },
+  {
+    "original": "Demand",
+    "translated": "Спрос"
+  },
+  {
+    "original": "Supply",
+    "translated": "Поставка"
+  },
+  {
+    "original": "Income",
+    "translated": "Доход"
+  },
+  {
+    "original": "Interest",
+    "translated_alternatives": ["Интерес"],
+    "translated": "Выгода"
+  },
+  {
+    "original": "Invoice",
+    "translated": "Счёт-фактура"
+  },
+  {
+    "original": "Tax",
+    "translated": "Налог"
+  },
+  {
+    "original": "Share",
+    "translated": "Акция"
+  },
+  {
+    "original": "Shareholder",
+    "translated": "Акционер"
+  },
+  {
+    "original": "Union",
+    "translated_alternatives": ["Объединение"],
+    "translated": "Союз"
+  }
+]

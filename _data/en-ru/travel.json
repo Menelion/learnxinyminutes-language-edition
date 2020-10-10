@@ -1,0 +1,97 @@
+[
+  {
+    "original": "Where is ...?",
+    "translated": "Где находится ...?"
+  },
+  {
+    "original": "At the street ...?",
+    "translated": "На улице ...?"
+  },
+  {
+    "original": "A train?",
+    "translated": "Поезд?"
+  },
+  {
+    "original": "The airport?",
+    "translated": "Аэропорт?"
+  },
+  {
+    "original": "A bank?",
+    "translated": "Банк?"
+  },
+  {
+    "original": "A hotel?",
+    "translated_alternatives": ["Гостиница?"],
+    "translated": "Отель?"
+  },
+  {
+    "original": "An exchange?",
+    "translated": "Пункт обмена валют?"
+  },
+  {
+    "original": "I need a/an ...",
+    "translated": "Мне нужен/нужна/нужно ..."
+  },
+  {
+    "original": "How much does it cost?",
+    "translated": "Сколько это стоит?"
+  },
+  {
+    "original": "What time is it?",
+    "translated": "Который час?"
+  },
+  {
+    "original": "Do you have ...?",
+    "translated": "У вас есть ...?"
+  },
+  {
+    "original": "Yes, I have ...",
+    "translated": "Да, у меня есть ..."
+  },
+  {
+    "original": "No, I don't have ...",
+    "translated": "Нет, у меня нет ..."
+  },
+  {
+    "original_alternatives": ["Can you speak ...?", "Do you understand ...?"],
+    "original": "Do you speak ...?",
+    "translated_alternatives": ["Вы понимаете ..."],
+    "translated": "Вы говорите ...?"
+  },
+  {
+    "original_alternatives": ["I understand ...", "I can speak ..."],
+    "original": "Yes, I speak ...",
+    "translated_alternatives": ["Да, я понимаю ..."],
+    "translated": "Да, я говорю ..."
+  },
+  {
+    "original_alternatives": ["I don't understand ...", "I can't speak ..."],
+    "original": "No, I don't speak ...",
+    "translated_alternatives": ["Нет, я не понимаю ..."],
+    "translated": "Нет, я не говорю ..."
+  },
+  {
+    "original_alternatives": ["Cash"],
+    "original": "Money",
+    "translated_alternatives": ["Наличные деньги"],
+    "translated": "Деньги"
+  },
+  {
+    "original": "To the right",
+    "translated": "Направо"
+  },
+  {
+    "original": "To the left",
+    "translated": "Налево"
+  },
+  {
+    "original": "Right at the corner",
+    "translated": "Прямо на углу"
+  },
+  {
+    "original_alternatives": ["Ahead"],
+    "original": "Straight",
+    "translated_alternatives": ["Впереди"],
+    "translated": "Прямо"
+  }
+]
